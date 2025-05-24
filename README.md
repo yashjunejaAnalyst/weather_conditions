@@ -6,8 +6,11 @@
 
 **Project approach -** 
 Data Collection: Gather historical weather data for both cities, including temperature, precipitation, UV index, solar radiation, humidity, cloud cover, dew point, visibility, and severe weather flags.
+
 Temporal Analysis: Break down data by time of day, month, and season to identify patterns and peak periods for solar energy and weather severity.
+
 Comparative Metrics: Calculate and compare average temperatures, precipitation totals, solar energy metrics (daily and monthly), UV index exceedance rates, and frequency of severe weather conditions.
+
 Correlation Study: Examine relationships such as dew point vs. precipitation and cloud cover vs. visibility to understand their impact on local weather and solar energy availability.
 Visualization: Use charts and graphs to visually communicate differences and trends across both cities.
 
